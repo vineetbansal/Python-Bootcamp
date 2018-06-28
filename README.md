@@ -12,7 +12,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 ### Syllabus
 
-Class 1 (Monday, August 13, 2018)
+**Class 1** (Monday, August 13, 2018)
 
 - Why Learn Python?
 - Installation and Setup
@@ -26,9 +26,9 @@ Class 1 (Monday, August 13, 2018)
   - String Type
   -	Functions
   
-Class 2 (Tuesday, August 14, 2018)
+**Class 2** (Tuesday, August 14, 2018)
 
-- Python Programming
+- Python Programming (contd.)
    - Lists
    - for Loops
    - Control Flow
@@ -36,18 +36,20 @@ Class 2 (Tuesday, August 14, 2018)
 
 - Basic Plotting with Matplotlib
 
-Class 3 (Wednesday, August 15, 2018)
+**Class 3** (Wednesday, August 15, 2018)
 
-- Tuples
-- Dictionaries
-- Object Oriented Programming in Python
+- Python Programming (contd.)
+  - Tuples
+  - Dictionaries
+  - Object Oriented Programming in Python
 
-Class 4 (Thursday, August 16, 2018)
+**Class 4** (Thursday, August 16, 2018)
 
-- Numpy
+- Scientific Computing with Numpy
 - Data Exploration with Pandas
 
-Class 5 (Friday, August 17, 2018)
+**Class 5** (Friday, August 17, 2018)
 
-- Putting it all together - An end-to-end Linear Regression Example
+- Putting it all together
+  - An end-to-end Linear Regression Model with Numpy/Pandas/Scikit-Learn/Matplotlib
 - Where to go from here?
