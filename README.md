@@ -1,7 +1,3 @@
-### The Center for Statistics and Machine Learning
-
-Princeton University
-
 # Python Bootcamp 2018
 
 [https://vineetbansal.github.io/Python-Bootcamp](https://vineetbansal.github.io/Python-Bootcamp)
