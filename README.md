@@ -46,10 +46,10 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 **Class 4** (Thursday, August 16, 2018)
 
 - Scientific Computing with Numpy
-- Data Exploration with Pandas
 
 **Class 5** (Friday, August 17, 2018)
 
+- Data Exploration with Pandas
 - Putting it all together
   - An end-to-end Linear Regression Model with Numpy/Pandas/Scikit-Learn/Matplotlib
 - Where to go from here?
