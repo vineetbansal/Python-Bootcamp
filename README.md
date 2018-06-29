@@ -1,10 +1,14 @@
-## Python Bootcamp 2018
+### The Center for Statistics and Machine Learning
+
+Princeton University
+
+# Python Bootcamp 2018
 
 [https://vineetbansal.github.io/Python-Bootcamp](https://vineetbansal.github.io/Python-Bootcamp)
 
 ### Basics of Programming in Python
 
-#### Pre-flight Check
+#### Pre-flight check
 
 We will be using the [Anaconda Python Distribution](https://www.anaconda.com/download) for this course. Anaconda is a popular software that gives us everything we need to get started in Python - the Python 3.6 interpreter, common Python libraries for scientific computing, plotting and analysis, jupyter Notebooks, and a lightweight IDE (Integrated Development Environment) for more advanced users.
 
