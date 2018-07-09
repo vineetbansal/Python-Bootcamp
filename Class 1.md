@@ -1,6 +1,3 @@
----
----
-
 # Python Bootcamp 2018
 
 ### Basics of Programming in Python
@@ -25,6 +22,4 @@ Syllabus
 
 Slides
 ------
-Introductory Remarks
-
-[Online Slides](https://www.slideshare.net/secret/GjvecG9I2gDX59)
+  - Introductory Remarks ([online](https://www.slideshare.net/secret/GjvecG9I2gDX59), [download](Class%201/slides/00%20Python%20Introductory%20Remarks.pptx))
