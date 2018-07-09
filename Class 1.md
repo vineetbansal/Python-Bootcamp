@@ -22,4 +22,4 @@ Syllabus
 
 Slides
 ------
-  - Introductory Remarks ([online](https://www.slideshare.net/secret/GjvecG9I2gDX59), [download](Class%201/slides/00%20Python%20Introductory%20Remarks.pptx))
+  - Introductory Remarks ([online](https://www.slideshare.net/secret/GjvecG9I2gDX59), [download](slides/00%20Python%20Introductory%20Remarks.pptx))
