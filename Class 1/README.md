@@ -4,6 +4,8 @@
 
 **Class 1** (Monday, August 20, 2018)
 
+Syllabus
+------
 - Why Learn Python?
 - Installation and Setup
 - Python Programming Basics
@@ -16,11 +18,10 @@
   - String Type
   -	Functions
 
-*Resources*
+**Resources**
 
 Slides
 ------
-[Introductory Remarks] ![SlideShare Logo][sl-logo](https://www.slideshare.net/secret/GjvecG9I2gDX59)
+Introductory Remarks
 
-
-[sl-logo]: https://public.slidesharecdn.com/images/logo/linkedin-ss/SS_Logo_Desktop_Black.png "Slideshare Logo"
+[Online Slides](https://www.slideshare.net/secret/GjvecG9I2gDX59)
