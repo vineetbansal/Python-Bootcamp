@@ -28,4 +28,5 @@ Slides
   
 Notebooks
 ---------
-
+  - [00 Getting started with Jupyter Notebooks.ipynb](notebooks/00%20Getting%20started%20with%20Jupyter%20Notebooks.ipynb)
+  - [01 Exercises - Variables-Operators-Numerics-Strings.ipynb](notebooks/01%20Exercises%20-%20Variables-Operators-Numerics-Strings.ipynb)
