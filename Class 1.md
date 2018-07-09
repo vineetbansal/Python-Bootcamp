@@ -1,3 +1,7 @@
+---
+title: Python Bootcamp Class 1
+---
+
 # Python Bootcamp 2018
 
 ### Basics of Programming in Python
