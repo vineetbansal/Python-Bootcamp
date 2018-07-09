@@ -11,5 +11,3 @@
    - File Handling
 
 - Basic Plotting with Matplotlib
-
- 

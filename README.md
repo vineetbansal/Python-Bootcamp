@@ -12,7 +12,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 ### Syllabus
 
-[**Class 1**](_posts/Class%201.md) (Monday, August 20, 2018)
+[**Class 1**](Class%201) (Monday, August 20, 2018)
 
 - Why Learn Python?
 - Installation and Setup
@@ -26,7 +26,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
   - String Type
   -	Functions
   
-[**Class 2**](Class%202/README.md) (Tuesday, August 21, 2018)
+[**Class 2**](Class%202) (Tuesday, August 21, 2018)
 
 - Python Programming (contd.)
    - Lists
@@ -36,18 +36,18 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 - Basic Plotting with Matplotlib
 
-[**Class 3**](Class%203/README.md) (Wednesday, August 22, 2018)
+[**Class 3**](Class%203) (Wednesday, August 22, 2018)
 
 - Python Programming (contd.)
   - Tuples
   - Dictionaries
   - Object Oriented Programming in Python
 
-[**Class 4**](Class%204/README.md) (Thursday, August 23, 2018)
+[**Class 4**](Class%204) (Thursday, August 23, 2018)
 
 - Scientific Computing with Numpy
 
-[**Class 5**](Class%205/README.md)(Friday, August 24, 2018)
+[**Class 5**](Class%205)(Friday, August 24, 2018)
 
 - Data Exploration with Pandas
 - Putting it all together
