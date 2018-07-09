@@ -12,7 +12,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 ### Syllabus
 
-**Class 1** (Monday, August 20, 2018)
+[**Class 1**](Class%201/README.md) (Monday, August 20, 2018)
 
 - Why Learn Python?
 - Installation and Setup
