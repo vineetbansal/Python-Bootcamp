@@ -47,7 +47,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 - Scientific Computing with Numpy
 
-[**Class 5**](Class%205)(Friday, August 24, 2018)
+[**Class 5**] (Class%205)(Friday, August 24, 2018)
 
 - Data Exploration with Pandas
 - Putting it all together
