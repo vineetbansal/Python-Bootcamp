@@ -20,6 +20,7 @@
 
 Slides
 ------
-[https://www.slideshare.net/secret/GjvecG9I2gDX59](Introductory Remarks)
+[Introductory Remarks] ![SlideShare Logo][sl-logo](https://www.slideshare.net/secret/GjvecG9I2gDX59)
 
- 
+
+[sl-logo]: https://public.slidesharecdn.com/images/logo/linkedin-ss/SS_Logo_Desktop_Black.png "Slideshare Logo"
