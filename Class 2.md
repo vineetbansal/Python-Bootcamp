@@ -15,8 +15,6 @@ Syllabus
 
 - Basic Plotting with Matplotlib
 
-**Resources**
-
 Slides
 ------
   - Lists/Loops/Files ([online](https://www.slideshare.net/secret/vzAxLmjtJql0to), [download](slides/03%20Lists_Loops_Files.pptx))

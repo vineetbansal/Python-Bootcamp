@@ -12,8 +12,6 @@ Syllabus
   - An end-to-end Linear Regression Model with Numpy/Pandas/Scikit-Learn/Matplotlib
 - Where to go from here?
 
-**Resources**
-
 Notebooks
 ---------
   - 09 Introduction to Pandas ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/09%20Introduction%20to%20Pandas.ipynb), [download](notebooks/09%20Introduction%20to%20Pandas.ipynb))

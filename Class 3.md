@@ -12,8 +12,6 @@ Syllabus
   - Dictionaries
   - Object Oriented Programming in Python
 
-**Resources**
-
 Slides
 ------
   - Tuples/Dictionaries ([online](https://www.slideshare.net/secret/wLCeCq2jBZ2C3y), [download](slides/05%20Tuples-Dictionaries.pptx))

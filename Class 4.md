@@ -9,8 +9,6 @@ Syllabus
 ------
 - Scientific Computing with Numpy
 
-**Resources**
-  
 Notebooks
 ---------
   - 05 Introduction to Numpy ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/05%20Introduction%20to%20Numpy.ipynb), [download](notebooks/04%20Object%20Oriented%20Programming.ipynb))
