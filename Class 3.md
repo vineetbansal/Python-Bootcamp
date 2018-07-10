@@ -20,4 +20,4 @@ Slides
 Notebooks
 ---------
   - Tuples/Dictionaries (coming soon)
-  - 04 Object Oriented Programming ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/04%20Object%20Oriented%20Programming.ipynb), [download](notebooks/04%20Object%20Oriented%20Programming.ipynb))
+  - 04 Object Oriented Programming ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/04%20Object%20Oriented%20Programming.ipynb), [download](notebooks/04%20Object%20Oriented%20Programming.ipynb))

@@ -14,5 +14,5 @@ Syllabus
 
 Notebooks
 ---------
-  - 09 Introduction to Pandas ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/09%20Introduction%20to%20Pandas.ipynb), [download](notebooks/09%20Introduction%20to%20Pandas.ipynb))
+  - 09 Introduction to Pandas ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/09%20Introduction%20to%20Pandas.ipynb), [download](notebooks/09%20Introduction%20to%20Pandas.ipynb))
   - 10 End-to-End Linear Regression Model (coming soon)

@@ -21,5 +21,5 @@ Slides
   
 Notebooks
 ---------
-  - 02 Exercises - Lists-Loops-Files ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/02%20Exercises%20-%20Lists-Loops-Files.ipynb), [download](notebooks/02%20Exercises%20-%20Lists-Loops-Files.ipynb))
-  - 03 Basic Plotting with Matplotlib ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/03%20Basic%20Plotting%20with%20Matplotlib.ipynb), [download](notebooks/03%20Basic%20Plotting%20with%20Matplotlib.ipynb))
+  - 02 Exercises - Lists-Loops-Files ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/02%20Exercises%20-%20Lists-Loops-Files.ipynb), [download](notebooks/02%20Exercises%20-%20Lists-Loops-Files.ipynb))
+  - 03 Basic Plotting with Matplotlib ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/03%20Basic%20Plotting%20with%20Matplotlib.ipynb), [download](notebooks/03%20Basic%20Plotting%20with%20Matplotlib.ipynb))

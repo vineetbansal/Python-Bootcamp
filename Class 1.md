@@ -28,5 +28,5 @@ Slides
   
 Notebooks
 ---------
-  - 00 Getting started with Jupyter Notebooks ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/00%20Getting%20started%20with%20Jupyter%20Notebooks.ipynb), [download](notebooks/00%20Getting%20started%20with%20Jupyter%20Notebooks.ipynb))
-  - 01 Exercises - Variables-Operators-Numerics-Strings] ([online](https://hub.mybinder.org/user/vineetbansal-python-bootcamp-zn79poxk/notebooks/notebooks/01%20Exercises%20-%20Variables-Operators-Numerics-Strings.ipynb), [download](notebooks/01%20Exercises%20-%20Variables-Operators-Numerics-Strings.ipynb))
+  - 00 Getting started with Jupyter Notebooks ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/00%20Getting%20started%20with%20Jupyter%20Notebooks.ipynb), [download](notebooks/00%20Getting%20started%20with%20Jupyter%20Notebooks.ipynb))
+  - 01 Exercises - Variables-Operators-Numerics-Strings] ([online](https://mybinder.org/v2/gh/vineetbansal/Python-Bootcamp/master?filepath=notebooks/01%20Exercises%20-%20Variables-Operators-Numerics-Strings.ipynb), [download](notebooks/01%20Exercises%20-%20Variables-Operators-Numerics-Strings.ipynb))
