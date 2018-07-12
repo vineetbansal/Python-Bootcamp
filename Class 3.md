@@ -14,8 +14,8 @@ Syllabus
 
 Slides
 ------
-  - Tuples/Dictionaries ([online](https://www.slideshare.net/secret/wLCeCq2jBZ2C3y), [download](slides/05%20Tuples-Dictionaries.pptx))
-  - Object Oriented Programming in Python ([online](https://www.slideshare.net/secret/vEoKUmM4hCcmrC), [download](slides/07%20Classes.pptx))
+  - Tuples/Dictionaries ([online](https://docs.google.com/presentation/d/1nxurU8-mxLWEQD8TvXv-w720tE00k2dnp9KYwkSH94g/edit?usp=sharing), [download](slides/05%20Tuples-Dictionaries.pptx))
+  - Object Oriented Programming in Python ([online](https://docs.google.com/presentation/d/1B6L-CcLtSrNCMHX1_V8qOw_Om5AoAwv7yM3GQOkAuls/edit?usp=sharing), [download](slides/07%20Classes.pptx))
   
 Notebooks
 ---------

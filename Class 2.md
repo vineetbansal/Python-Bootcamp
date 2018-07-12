@@ -17,7 +17,7 @@ Syllabus
 
 Slides
 ------
-  - Lists/Loops/Files ([online](https://www.slideshare.net/secret/vzAxLmjtJql0to), [download](slides/03%20Lists_Loops_Files.pptx))
+  - Lists/Loops/Files ([online](https://docs.google.com/presentation/d/1tAzAQDwvezC5QZPXn-lM-UqoQpN0XvYbTibkk4ceH5I/edit?usp=sharing), [download](slides/03%20Lists_Loops_Files.pptx))
   
 Notebooks
 ---------
