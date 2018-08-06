@@ -11,6 +11,8 @@ Syllabus
   - Functions and Modules
   - Useful Data Structures - Dictionaries/Tuples
 
+- Introduction to Numpy
+
 Slides
 ------
   - Functions ([online](https://docs.google.com/presentation/d/1BN4p3jDUuMtAeoW-MQe9Q8ve1lyBpCQJ6Eb_8bcjJKE/edit?usp=sharing), [download](slides/04%20Functions.pptx))

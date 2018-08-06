@@ -8,7 +8,7 @@ Class 4 (Thursday, August 23, 2018)
 Syllabus
 ------
 - Scientific Computing with Numpy (contd.)
-- A very brief Introduction to Pandas
+- A (very brief) Introduction to Pandas
 
 Notebooks
 ---------

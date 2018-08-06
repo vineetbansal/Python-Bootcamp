@@ -18,6 +18,11 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 
 - Why Learn Python?
 - Installation and Setup
+  - Running Python commands interactively
+  - Running scripts from the command line
+  - The Spyder IDE
+  - Jupyter Notebooks
+  
 - Python Programming Basics
   -	Variables
   - Operations
@@ -26,7 +31,7 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
   -	Importing modules and using functions
   -	Comparisons and Logic
   - String Type
-  -	Functions
+      - Indexing/Slicing Basics
   
 [**Class 2**](Class%202) (Tuesday, August 21, 2018)
 
@@ -41,17 +46,18 @@ Please make sure that you have `Python 3.6 version` installed for your platform 
 [**Class 3**](Class%203) (Wednesday, August 22, 2018)
 
 - Python Programming (contd.)
-  - Tuples
-  - Dictionaries
-  - Object Oriented Programming in Python
+  - Functions and Modules
+  - Useful Data Structures - Dictionaries/Tuples
+
+- Introduction to Numpy
 
 [**Class 4**](Class%204) (Thursday, August 23, 2018)
 
-- Scientific Computing with Numpy
+- Scientific Computing with Numpy (contd.)
+- A (very brief) Introduction to Pandas
 
 [**Class 5**](Class%205) (Friday, August 24, 2018)
 
-- Data Exploration with Pandas
 - Putting it all together
   - An end-to-end Linear Regression Model with Numpy/Pandas/Scikit-Learn/Matplotlib
 - Where to go from here?
