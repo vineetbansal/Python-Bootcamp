@@ -9,6 +9,11 @@ Syllabus
 ------
 - Why Learn Python?
 - Installation and Setup
+  - Running Python commands interactively
+  - Running scripts from the command line
+  - The Spyder IDE
+  - Jupyter Notebooks
+  
 - Python Programming Basics
   -	Variables
   - Operations
@@ -17,14 +22,13 @@ Syllabus
   -	Importing modules and using functions
   -	Comparisons and Logic
   - String Type
-  -	Functions
+      - Indexing/Slicing Basics
 
 Slides
 ------
   - Introductory Remarks ([online](https://docs.google.com/presentation/d/14nBW5YuNdrO3PXVBSQ8rZWJBR5HLjfjdS1xWudWCtrU/edit?usp=sharing), [download](slides/00%20Python%20Introductory%20Remarks.pptx))
   - Variables/Operators/Logic/Numerics ([online](https://docs.google.com/presentation/d/1I5AGwYXlEuhgnqG1Lus9kLAoc-u2eOCHtESAArMLVbk/edit?usp=sharing), [download](slides/01%20Variables_Operators_Logic_Numerics.pptx))
   - Strings ([online](https://docs.google.com/presentation/d/1yQAfXpWT6GJz1_zbsdnqZItXhqWUYj1bZjAlWVkdxe8/edit?usp=sharing), [download](slides/02%20Strings.pptx))
-  - Functions ([online](https://docs.google.com/presentation/d/1BN4p3jDUuMtAeoW-MQe9Q8ve1lyBpCQJ6Eb_8bcjJKE/edit?usp=sharing), [download](slides/04%20Functions.pptx))
   
 Notebooks
 ---------
