@@ -1,5 +1,7 @@
 # Python Bootcamp 2018
 
+[https://vineetbansal.github.io/Python-Bootcamp](https://vineetbansal.github.io/Python-Bootcamp)
+
 ## Basics of Programming in Python
 
 Class 5 (Friday, August 24, 2018)
