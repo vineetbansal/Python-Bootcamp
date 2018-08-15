@@ -26,9 +26,9 @@ Syllabus
 
 Slides
 ------
-  - Introductory Remarks ([online](https://docs.google.com/presentation/d/14nBW5YuNdrO3PXVBSQ8rZWJBR5HLjfjdS1xWudWCtrU/edit?usp=sharing), [download](slides/00%20Python%20Introductory%20Remarks.pptx))
-  - Variables/Operators/Logic/Numerics ([online](https://docs.google.com/presentation/d/1I5AGwYXlEuhgnqG1Lus9kLAoc-u2eOCHtESAArMLVbk/edit?usp=sharing), [download](slides/01%20Variables_Operators_Logic_Numerics.pptx))
-  - Strings ([online](https://docs.google.com/presentation/d/1yQAfXpWT6GJz1_zbsdnqZItXhqWUYj1bZjAlWVkdxe8/edit?usp=sharing), [download](slides/02%20Strings.pptx))
+  - Introductory Remarks ([online](https://drive.google.com/file/d/1DUEvIG10LxsW6HLhXDXpLxZZuPPEV8tW/view?usp=sharing), [download](slides/00%20Python%20Introductory%20Remarks.pptx))
+  - Variables/Operators/Logic/Numerics ([online](https://drive.google.com/file/d/1MzdEL2YJanqpg330tjAOtwOKYWEEOeAv/view?usp=sharing), [download](slides/01%20Variables_Operators_Logic_Numerics.pptx))
+  - Strings ([online](https://drive.google.com/file/d/1Fa1ldwfTXZ6BxTmEtEl4vcPGSMstaeBO/view?usp=sharing), [download](slides/02%20Strings.pptx))
   
 Notebooks
 ---------
